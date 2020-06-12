@@ -1,2 +1,2 @@
-# HCI-Research
-Creative files for HCI Study. 
+# Children's Ebook Study
+In this study the focuse is how adolescents interact and gather information from a story with animated ebooks and webpages in comparison to without animated books. I have four short stories with four different versions of the story regarding the animations. For instance, one ebook will have no images whereas the other three versions will variate on how detailed the animations are throughout the story. This repository is generally a file system to organize my creative files and display my finished products. I will be working with Dr. Ahmed Arif from UC Merced's Human Computer Interaction Department to go forward with this study.  
